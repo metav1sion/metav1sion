@@ -9,14 +9,19 @@
 <h2 align="center">About me</h2>
 
 ###
-
-<p align="center">
-    [🔭 I’m currently working on DevFolio](https://github.com/metav1sion/DevFolioProject)
-    <br><br>
-    🌱 I’m currently learning Asp.Net Core, Vue.Js
-    <br><br>
-    📫 How to reach me [metehansozen@outlook.com](mailto:metehansozen@outlook.com)
-</p>
+<div align="center">
+    <p>
+        🔭 I’m currently working on <a href="https://github.com/metav1sion/DevFolioProject">DevFolio</a>
+    </p>
+    <br>
+    <p>
+        🌱 I’m currently learning Asp.Net Core, Vue.Js
+    </p>
+    <br>
+    <p>
+        📫 How to reach me <a href="mailto:metehansozen@outlook.com">metehansozen@outlook.com</a>
+    </p>
+</div>
 
 
 ###
