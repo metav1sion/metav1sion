@@ -10,7 +10,15 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on [DevFolio](https://github.com/metav1sion/DevFolioProject)<br><br>🌱 I’m currently learning Asp.Net Core,Vue.Js<br><br>📫 How to reach me metehansozen@outlook.com</p>
+<p align="center">
+    <span onclick="window.location.href='https://github.com/metav1sion/DevFolioProject'">
+        🔭 I’m currently working on DevFolio
+    </span>
+    <br><br>
+    🌱 I’m currently learning Asp.Net Core, Vue.Js
+    <br><br>
+    📫 How to reach me <a href="mailto:metehansozen@outlook.com">metehansozen@outlook.com</a>
+</p>
 
 ###
 
