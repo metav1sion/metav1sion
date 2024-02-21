@@ -11,7 +11,7 @@
 ###
 <div align="center">
     <p>
-        🔭 I’m currently working on <a href="https://github.com/metav1sion/DevFolioProject">DevFolio</a>
+        🔭 I’m currently working on <a href="https://github.com/metav1sion/TasteFoodIt">DevFolio</a>
     </p>
     <br>
     <p>
