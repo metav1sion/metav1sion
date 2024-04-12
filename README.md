@@ -15,7 +15,7 @@
     </p>
     <br>
     <p>
-        🌱 I’m currently learning Asp.Net Core, Vue.Js
+        🌱 I’m currently learning Asp.Net Core
     </p>
     <br>
     <p>
