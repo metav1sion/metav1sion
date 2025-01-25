@@ -24,11 +24,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=metav1sion&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=10&order=3" height="158" alt="streak graph"  />
-</div>
-
-###
